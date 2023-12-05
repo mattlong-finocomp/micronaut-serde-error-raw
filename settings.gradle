@@ -1,0 +1,6 @@
+rootProject.name = 'micronaut-serde-error-raw'
+include 'mn_4_1_6_jsonp'
+include 'mn_4_2_0_jackson'
+include 'mn_4_2_0_jsonp'
+include 'config'
+
